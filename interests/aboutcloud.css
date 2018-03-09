@@ -1,0 +1,15 @@
+
+   .mainheading{
+    text-align: center;
+    color: Black;
+    font:70px;
+} 
+       body{
+    background:url("http://www.priority-software.com/wp-content/uploads/2014/10/icon_saas.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    width:100%;
+    left:0;
+    top:0;
+    }

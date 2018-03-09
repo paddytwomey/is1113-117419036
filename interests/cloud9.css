@@ -1,0 +1,15 @@
+
+   .mainheading{
+    text-align: center;
+    color: black;
+    font:70px;
+} 
+       body{
+    background:url("https://image4.owler.com/logo/cloud9-ide_owler_20160226_193821_original.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    width:100%;
+    left:0;
+    top:0;
+    }

@@ -1,0 +1,15 @@
+   .mainheading{
+    text-align: center;
+    color: black;
+    font:100px;
+} 
+
+      body{
+    background:url("https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/topic/AdobeStock_41472728.jpeg?itok=4r_LGdCa");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    width:100%;
+    left:0;
+    top:0;
+    }

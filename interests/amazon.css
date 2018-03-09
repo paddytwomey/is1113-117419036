@@ -1,0 +1,14 @@
+   .mainheading{
+    text-align: center;
+    color: Black;
+    font:70px;
+} 
+       body{
+    background:url("http://www.aalogics.com/sites/default/files/icon-aws.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 60%;
+    width:60%;
+    left:0;
+    top:0;
+    }

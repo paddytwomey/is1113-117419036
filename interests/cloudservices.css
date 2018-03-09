@@ -1,0 +1,15 @@
+   .mainheading{
+    text-align: center;
+    color: Black;
+    font:70px;
+} 
+    
+    body{
+    background:url("http://www.adsnapshot.co.uk/wp-content/uploads/2013/12/CloudServices_JaminTele-e1347304697787.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    width:100%;
+    left:0;
+    top:0;
+    }

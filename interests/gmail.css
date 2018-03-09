@@ -1,0 +1,15 @@
+
+   .mainheading{
+    text-align: center;
+    color: Black;
+    font:70px;
+} 
+       body{
+    background:url("http://3.bp.blogspot.com/-O231QKWcdH0/VGIFcFuWo5I/AAAAAAAAPnE/S3a8H6twUoE/s1600/logo_gmail_color_112in128dp.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    width:100%;
+    left:0;
+    top:0;
+    }
